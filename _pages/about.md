@@ -22,7 +22,7 @@ Research interest: Infrared small target detection, 3D target detection, Transfo
 
 # 📝 Publications 
 
-#### Human-centric Visual Generation
+#### Infrared small target detection
 - ***SIRST-5K: Exploring Massive Negatives Synthesis with Self-supervised Learning for Robust Infrared Small Target Detection*** \
 **Yahao Lu**, Yupei Lin, Han Wu, Xiaoyu Xian, Yukai Shi, Liang Lin \
 arXiv pre-print, [[arxiv](https://arxiv.org/abs/2403.05416)][[code](https://github.com/luy0222/SIRST-5K)]
