@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-
+# 💬 About me
 I am currently a Master candidate in the School of Information Engineering, Guangdong University of Techonology, advised by [Dr. Yukai Shi](https://ykshi.github.io/). Before that, I received my B.E. degree in the School of Information Engineering, Guangdong University of Techonology. 
 
 
