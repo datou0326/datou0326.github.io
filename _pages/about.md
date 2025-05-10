@@ -9,8 +9,7 @@ redirect_from:
 ---
 
 # 💬 About me
-I am currently a Master candidate in the School of Information Engineering, Guangdong University of Techonology, advised by [Dr. Yukai Shi](https://ykshi.github.io/). Before that, I received my B.E. degree in the School of Information Engineering, Guangdong University of Techonology. 
-
+I received my Bachelor's degree from the School of Information Engineering, Guangdong University of Technology. Currently, I am a Master's candidate at the same school, advised by [Dr. Yukai Shi](https://ykshi.github.io/). Concurrently, I am interning at China Southern Power Grid Guangdong Power Grid Co., Ltd.
 
 
 Research interest: Infrared small target detection, 3D target detection, Transformer, Diffusion. 
@@ -23,19 +22,27 @@ Research interest: Infrared small target detection, 3D target detection, Transfo
 # 📝 Publications 
 
 #### Infrared small target detection
+- ***Rethinking Generalizable Infrared Small Target Detection: A Real-scene Benchmark and Cross-view Representation Learning*** \
+**Yahao Lu**, Yuehui Li, Xingyuan Guo, Shuai Yuan, Yukai Shi, Liang Lin \
+**ArXiv Preprint**, 2025.[[PDF](https://arxiv.org/abs/2504.16487)][[Code and Dataset](https://github.com/luy0222/RealScene-ISTD)]
 - ***SIRST-5K: Exploring Massive Negatives Synthesis with Self-supervised Learning for Robust Infrared Small Target Detection*** \
 **Yahao Lu**, Yupei Lin, Han Wu, Xiaoyu Xian, Yukai Shi, Liang Lin \
-**IEEE Transactions on Geoscience and Remote Sensing (T-GRS)**, 2024.[[arxiv](https://arxiv.org/abs/2403.05416)][[code](https://github.com/luy0222/SIRST-5K)]
+**IEEE Transactions on Geoscience and Remote Sensing (T-GRS)**, 2024.[[PDF](https://arxiv.org/abs/2403.05416)][[Code](https://github.com/luy0222/SIRST-5K)]
 
-
+#### Scene Text Recognition and Autonomous Driving
+- ***Advanced scene text recognition and application for dynamic driving scenes*** \
+Jiahao Wang, **Yahao Lu**, Lianpei Wu \
+**International Conference on Signal Image Processing and Communication(ICSIPC)**, 2024.[[PDF](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13253/1325318/Advanced-scene-text-recognition-and-application-for-dynamic-driving-scenes/10.1117/12.3041890.short)][[Code](https://luy0222.github.io/)]
 
 # 📖 Educations
 - *2023.09 - now*, Master, School of Information Engineering, Guangdong University of Technology.
 - *2019.09 - 2023.06*, Undergraduate, School of Information Engineering, Guangdong University of Technology.
 
+# 💻 Internships
+- *2024.06 - 2025.06*, China Southern Power Grid Guangdong Power Grid Co., Ltd.
+- *2023.06 - 2024.06*, CRRC Corporation Limited
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+ -->
