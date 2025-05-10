@@ -42,6 +42,3 @@ Jiahao Wang, **Yahao Lu**, Lianpei Wu \
 - *2024.06 - 2025.06*, China Southern Power Grid Guangdong Power Grid Co., Ltd.
 - *2023.06 - 2024.06*, CRRC Corporation Limited
 
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)-->
