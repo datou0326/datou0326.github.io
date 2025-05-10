@@ -12,7 +12,7 @@ redirect_from:
 I received my Bachelor's degree from the School of Information Engineering, Guangdong University of Technology. Currently, I am a Master's candidate at the same school, advised by [Dr. Yukai Shi](https://ykshi.github.io/). Concurrently, I am interning at China Southern Power Grid Guangdong Power Grid Co., Ltd.
 
 
-Research interest: Infrared small target detection, 3D target detection, Transformer, Diffusion. 
+**Research interest:** Infrared small target detection, 3D target detection, Transformer, Diffusion. 
 
 ***Never stop looking for collaboration, kindly contact me via email.***
 
