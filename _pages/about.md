@@ -21,7 +21,7 @@ I received my Bachelor's degree from the School of Information Engineering, Guan
 
 # 📝 Publications 
 
-#### Infrared small target detection
+#### Infrared Small Target Detection
 - ***Rethinking Generalizable Infrared Small Target Detection: A Real-scene Benchmark and Cross-view Representation Learning*** \
 **Yahao Lu***, Yuehui Li, Xingyuan Guo, Shuai Yuan, Yukai Shi, Liang Lin \
 **ArXiv Preprint**, 2025.[[PDF](https://arxiv.org/abs/2504.16487)][[Code and Dataset](https://github.com/luy0222/RealScene-ISTD)]
