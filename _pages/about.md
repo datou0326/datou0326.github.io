@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # 💬 About me
-I received my Bachelor's degree from the School of Information Engineering, Guangdong University of Technology. Currently, I am a Master's candidate at the same school, advised by [Dr. Yukai Shi](https://ykshi.github.io/). Concurrently, I am interning at China Southern Power Grid Guangdong Power Grid Co., Ltd.
+I received my Bachelor's degree from the School of Information Engineering, Guangdong University of Technology. Currently, I am a Master's candidate at the same school, advised by [Dr. Yukai Shi](https://ykshi.github.io/). 
 
 
 **Research interest:** Infrared small target detection, 3D target detection, Transformer, Diffusion. 
@@ -38,7 +38,4 @@ Jiahao Wang, **Yahao Lu***, Lianpei Wu \
 - *2023.09 - now*, Master, School of Information Engineering, Guangdong University of Technology.
 - *2019.09 - 2023.06*, Undergraduate, School of Information Engineering, Guangdong University of Technology.
 
-# 💻 Internships
-- *2024.06 - 2025.06*, China Southern Power Grid Guangdong Power Grid Co., Ltd.
-- *2023.06 - 2024.06*, CRRC Corporation Limited
 
