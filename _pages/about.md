@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # 💬 About me
-I received my Bachelor's degree from the School of Information Engineering, Guangdong University of Technology. Currently, I am a Master's candidate at the same school, advised by [Dr. Yukai Shi](https://ykshi.github.io/). 
+I received my Bachelor's degree from the School of Information Engineering, Guangdong University of Technology. Currently, I am a Master's candidate at the same school, advised by [Prof. Yukai Shi](https://ykshi.github.io/). 
 
 
 **Research interest:** Infrared small target detection, 3D target detection, Transformer, Diffusion. 
