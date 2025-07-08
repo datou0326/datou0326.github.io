@@ -24,7 +24,7 @@ I received my Bachelor's degree from the School of Information Engineering, Guan
 #### Infrared Small Target Detection
 - ***Rethinking Generalizable Infrared Small Target Detection: A Real-scene Benchmark and Cross-view Representation Learning*** \
 **Yahao Lu***, Yuehui Li, Xingyuan Guo, Shuai Yuan, Yukai Shi, Liang Lin \
-**ArXiv Preprint**, 2025.[[PDF](https://arxiv.org/abs/2504.16487)][[Code and Dataset](https://github.com/luy0222/RealScene-ISTD)]
+**IEEE Transactions on Geoscience and Remote Sensing (T-GRS)**, 2025.[[PDF](https://arxiv.org/abs/2504.16487)][[Code and Dataset](https://github.com/luy0222/RealScene-ISTD)]
 - ***SIRST-5K: Exploring Massive Negatives Synthesis with Self-supervised Learning for Robust Infrared Small Target Detection*** \
 **Yahao Lu***, Yupei Lin, Han Wu, Xiaoyu Xian, Yukai Shi, Liang Lin \
 **IEEE Transactions on Geoscience and Remote Sensing (T-GRS)**, 2024.[[PDF](https://arxiv.org/abs/2403.05416)][[Code](https://github.com/luy0222/SIRST-5K)]
