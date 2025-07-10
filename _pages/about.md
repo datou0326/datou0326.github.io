@@ -24,7 +24,7 @@ I received my Bachelor's degree from the School of Information Engineering, Guan
 #### Infrared Small Target Detection
 - ***Exploiting Gaussian Agnostic Representation Learning with Diffusion Priors for Enhanced Infrared Small Target Detection*** \
 Junyao Li, **Yahao Lu***, Xingyuan Guo, Xiaoyu Xian, Tiantian Wang, Yukai Shi \
-**Neural Networks (NN)(Major Revision)**, 2025. [[PDF](https://ykshi.github.io/)][[Code](https://ykshi.github.io/)
+**Neural Networks (NN)(Major Revision)**, 2025. [[PDF](https://ykshi.github.io/)][[Code](https://ykshi.github.io/)]
 - ***Rethinking Generalizable Infrared Small Target Detection: A Real-scene Benchmark and Cross-view Representation Learning*** \
 **Yahao Lu***, Yuehui Li, Xingyuan Guo, Shuai Yuan, Yukai Shi, Liang Lin \
 **IEEE Transactions on Geoscience and Remote Sensing (T-GRS)**, 2025.[[PDF](https://arxiv.org/abs/2504.16487)][[Code and Dataset](https://github.com/luy0222/RealScene-ISTD)]
