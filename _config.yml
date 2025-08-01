@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yahao Lu (卢雅豪)"
+title                    : "Junyao Li (李君耀)"
 description              : "Master at GDUT. "
-repository               : "luy0222/luy0222.github.io"
+repository               : "datou0326/datou0326.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yahao Lu"
-  avatar           : "images/luy.jpg"
+  name             : "Junyao Li"
+  avatar           : "images/datou.png"
   bio              : "Guangdong University of Technology"
   location         : "Guangzhou, China"
   employer         :
   pubmed           : 
-  googlescholar    :  "https://scholar.google.com/citations?user=68jlDIYAAAAJ&hl=zh-CN"
-  email            : "2112303120@mail2.gdut.edu.cn"
+  googlescholar    :  "https://scholar.google.com/citations?user=AJZs6bkAAAAJ&hl=zh-CN"
+  email            : "2112403037@mail2.gdut.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/luy0222"
+  github           : "https://github.com/datou0326"
   google_plus      :
   keybase          :
   instagram        :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/my-orcid?orcid=0009-0000-1862-3159"
+  orcid            : "https://orcid.org/0009-0002-4541-5114"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
